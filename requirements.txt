@@ -1,0 +1,12 @@
+Flask
+Flask-Login
+Flask-OpenID
+Flask-Mail
+Flask-SQLAlchemy
+sqlalchemy-migrate
+Flask-WhooshAlchemy
+Flask-WTF
+Flask-Babel
+guess_language
+flipflop
+coverage
